@@ -46,7 +46,12 @@
 
 ### 📫 Liên hệ với tôi
 <p align="center">
-  <a href="mailto:levietyp111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:levietyp111@gmail.com" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail badge"
+  />
+</a>
   <a href="https://www.linkedin.com/in/l%C3%AA-qu%E1%BB%91c-vi%E1%BB%87t-2149022b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/yourfacebook/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://vietle.dev"><img src="https://img.shields.io/badge/Portfolio-00FF7F?style=for-the-badge&logo=firefox&logoColor=white"/></a>
